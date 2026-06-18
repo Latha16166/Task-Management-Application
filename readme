@@ -1,0 +1,35 @@
+# Task Management Application
+
+## Features
+
+- Create Task
+- View Tasks
+- Delete Task
+- Responsive Design
+- Flask Backend
+- SQLite Database
+
+## Technologies
+
+- Python
+- Flask
+- SQLite
+- HTML
+- CSS
+- JavaScript
+
+## Run Backend
+
+cd backend
+
+pip install -r requirements.txt
+
+python app.py
+
+## Run Frontend
+
+Open index.html in browser
+
+## Author
+
+Latha Nanduri
